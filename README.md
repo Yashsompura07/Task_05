@@ -133,5 +133,6 @@ The script generates the following plots:
 ## 👤 Author
 
 **Yash Sompura**
+- GitHub: https://github.com/Yashsompura07
 
 ---
