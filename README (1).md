@@ -61,7 +61,7 @@ sales_prediction/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-prediction.git
+git clone https://github.com/Yashsompura07/sales-prediction.git
 cd sales-prediction
 ```
 
@@ -132,11 +132,6 @@ The script generates the following plots:
 
 ## 👤 Author
 
-**Your Name**
-Internship Task 5 — Sales Prediction Using Machine Learning
+**Yash Sompura**
 
 ---
-
-## 📄 License
-
-This project is for educational/internship purposes only.
